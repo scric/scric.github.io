@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "say something"
+title: "暑假建议"
 excerpt: 暑假建议
 date: 2017-06-16 22:16:54
 tags: Write
