@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "写作的前思后想（一）"
+title: 写作的前思后想（一）
 excerpt: 关于写作的思考
 date: 2017-06-16 08:16:54
 tags: Write

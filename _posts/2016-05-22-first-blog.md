@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Do someting fun"
+title: Do someting fun
 author: scric
 date: 2017-06-10 22:16:54
 tags: Blog
