@@ -7,7 +7,7 @@
 
 # Site settings
 title: Scric
-brief-intro: 别把世界留给妄想 “就这样” 的邪恶。
+brief-intro: 别把世界留给妄想 “就这样” 的邪恶
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scric.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: ke-ai-de-da-xiang-jiao
 linkedIn_username: 
 dribbble_username:
 
-description_footer: It's now or never。
+description_footer: It's now or never
 
 # comments
 # two ways to comment, only choose one, and use your own short name
