@@ -104,6 +104,10 @@ type: page
 * [Cmd Markdown 编辑阅读器][24] 
 
   好用的 Markdown 在线编辑器
+  
+* [Office-converter][25]
+
+  免费在线文件转换器
  
 ## 公共号
 
@@ -158,6 +162,7 @@ type: page
   [22]: https://greasyfork.org/zh-CN.com/
   [23]: http://tampermonkey.net/
   [24]: https://www.zybuluo.com/mdeditor
+  [25]: http://cn.office-converter.com/
   
 
 ## Comments
