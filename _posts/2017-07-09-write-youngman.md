@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 写给年轻的自己（一）
 author: scric
