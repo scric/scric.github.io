@@ -2,11 +2,10 @@
 layout: post
 title: 写给年轻的自己（一）
 author: scric
-date: 2017-07-09 23:51:54
+date: 2017-07-09 23:40:00
 tags: Write
 category: Blog
 ---
-
 
 * content
 {:toc}
