@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Scric
+title: 张大星的网站
 brief-intro: 别把世界留给妄想 “就这样” 的邪恶
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scric.github.io" # the base hostname & protocol for your site
