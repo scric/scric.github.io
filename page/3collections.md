@@ -33,11 +33,11 @@ type: page
    
 * [Listary][6]
 
-  Windows 文件浏览和搜索增强工具。
+  Windows 上最好的文件浏览和搜索增强工具。
   
 * [桌面日历][7]
 
-  在你的 Windows 桌面上显示日历。
+  在你的 Windows 桌面上显示日历；并可添加各种日程；农历和节日及气节显示。
   
 * [WGestures][8]
 
@@ -49,11 +49,11 @@ type: page
 
 * [MacType][10]
 
-   字体美化渲染神器。让字体显示的更清晰，更有立体感。
+  字体美化渲染神器。让字体显示的更清晰，更有立体感。
 
 * [Notepad++][11]
 
-  好用的文件编辑器
+  Windows 上好用的文件编辑器
 
 * [CCleaner][12]
 
@@ -62,50 +62,70 @@ type: page
 * [Clover][13]
 
   为资源管理器增加类似谷歌 Chrome 浏览器的多标签页功能。
+
+* [Mem Reduct][14]
+
+  小巧的内存清理工具；可设置内存上限自动清理。
+  
+* [Bandizip][15]
+
+  一款可靠和快速的压缩软件，界面好看。
+  
+* [Ditto][16]
+
+  可能是 Windows 上最强大的剪切板应用；可复制黏贴图片；保存多条记录，支持搜索；合并黏贴.... 等等众多功能。
+  
+* [Loxclip 液切][17]
+
+  复制图片粘贴文件，轻快的图片剪切板增强工具。
   
 ## 工具网站
 
-* [维基百科][14]
+* [ZD423][18]
+
+  更新快、去广告类软件博客领跑者、有态度的知名软件分享站。
+
+* [维基百科][19]
   
   网络百科全书
 
-* [WikiHow][15]
+* [WikiHow][20]
 
   专业的指导手册
   
-* [135编辑器][16]
+* [135编辑器][21]
 
   好用的微信排版网站
   
-* [简书][17]
+* [简书][22]
 
   优质的创作平台
 
-* [永硕 E 盘][18]
+* [永硕 E 盘][23]
   
   专业数据存储、交流平台。
 
-* [鸠摩搜书][19]
+* [鸠摩搜书][24]
 
   电子书资源平台
   
-* [站长工具][20]
+* [站长工具][25]
 
   站长的工具
   
-* [快速创建收件夹][21]
+* [网络创建收件夹][26]
 
   用于向多人收取文件
 
-* [GreasyFork][22]
+* [GreasyFork][27]
 
-  用户脚本平台，配合 '[油猴子][23]' 食用更佳。
+  用户脚本平台，配合 '[油猴子][28]' 食用更佳。
 
-* [Cmd Markdown 编辑阅读器][24] 
+* [Cmd Markdown 编辑阅读器][29] 
 
   好用的 Markdown 在线编辑器
-  
-* [Office-converter][25]
+
+* [Office-converter][30]
 
   免费在线文件转换器
  
@@ -113,43 +133,54 @@ type: page
 
 * kindle 图书专享
 
-免费的热门 kindle 书籍推送
+  免费的热门 kindle 书籍推送
 
 * KnowYourself
 
-国内最大的泛心理学社区
+  国内最大的泛心理学社区
 
 * 利器
 
-精致的工具分享社区
+  精致的工具分享社区
 
 * 思维改变生活
 
-刘未鹏的个人公共号，心理学方向
+  刘未鹏的个人公共号，心理学方向
 
 * 采铜的铜
 
-采铜的个人公共号，心理学方向
+  采铜的个人公共号，心理学方向
 
-* 知加
-
-工程师文化社区
 
 ## 生活利器
 
 + 优衣库男装 袋装圆领 T 恤（短袖）180700
 
-简单，大方，百搭款。
+  简单，大方，百搭款。
 
 + 白雪 PVR-155 直液式走珠笔 0.5mm 子弹头
 
-经济；用完即丢；写字流畅；不能换笔芯。
+  经济；用完即丢；写字流畅；不能换笔芯。
 
 + ikbc 新版 poker2 机械键盘
 
-61 键；简单易携带；可编程；打字舒服清脆；
-  
- 
+  61 键；简单易携带；可编程；打字舒服清脆；
+
++ 小米手环 2（或其他手环）
+
+  小巧，轻便，可观看时间，记录你的行走步数和睡眠质量；当然，还有你运动时的心率，也少不了各种闹钟的啦。
+
++ 欧乐 b 电动牙刷 D16
+
+  电动牙刷三巨头；入门畅销级电动牙刷，229R，换来一个全新的刷牙体验和牙齿健康。
+
++ 花花公子男士短款真皮复古简约薄款头层牛皮钱包
+
+  花花公子钱包；多夹层；可放照片；空间大；不贵，适配青年学生。
+
++ 卡西欧双显光动能运动表
+
+  卡西欧的品牌；268R；光动能，防水，双显，夜光显示，世界时间，秒表...应有尽有；风格像 G-shock；适配青年学生。
 
 
   [1]: https://github.com/getlantern/forum/issues/833
@@ -165,20 +196,20 @@ type: page
   [11]: https://notepad-plus-plus.org/
   [12]: https://www.piriform.com/
   [13]: http://cn.ejie.me/
-  [14]: https://zh.wikipedia.org
-  [15]: http://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-  [16]: http://www.135editor.com/?
-  [17]: http://www.jianshu.com/
-  [18]: http://www.ys168.com/
-  [19]: https://www.jiumodiary.com/
-  [20]: http://tool.chinaz.com/
-  [21]: http://xzc.cn/
-  [22]: https://greasyfork.org/zh-CN.com/
-  [23]: http://tampermonkey.net/
-  [24]: https://www.zybuluo.com/mdeditor
-  [25]: http://cn.office-converter.com/
-  
-
-## Comments
-
-{% include comments.html %}
+  [14]: https://www.henrypp.org/product/memreduct
+  [15]: https://www.bandisoft.com/bandizip/cn/
+  [16]: http://ditto-cp.sourceforge.net/
+  [17]: http://nullice.com/loxclip-2
+  [18]: http://www.zdfans.com/
+  [19]: https://zh.wikipedia.org
+  [20]: http://zh.wikihow.com/%E9%A6%96%E9%A1%B5a.org
+  [21]: http://www.135editor.com/?
+  [22]: http://www.jianshu.com/
+  [23]: http://www.ys168.com/
+  [24]: https://www.jiumodiary.com/
+  [25]: http://tool.chinaz.com/
+  [26]: http://xzc.cn/
+  [27]: https://greasyfork.org/zh-CN.com/
+  [28]: http://tampermonkey.net/
+  [29]: https://www.zybuluo.com/mdeditor
+  [30]: http://cn.office-converter.com/
