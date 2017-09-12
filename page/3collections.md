@@ -154,31 +154,31 @@ type: page
 
 ## 生活利器
 
-+ 优衣库男装 袋装圆领 T 恤（短袖）180700
++ [优衣库男装 袋装圆领 T 恤（短袖）180700][31]
 
   简单，大方，百搭款。
 
-+ 白雪 PVR-155 直液式走珠笔 0.5mm 子弹头
++ [白雪 PVR-155 直液式走珠笔 0.5mm 子弹头][32]
 
   经济；用完即丢；写字流畅；不能换笔芯。
 
-+ ikbc 新版 poker2 机械键盘
++ [ikbc 新版 poker2 机械键盘][33]
 
   61 键；简单易携带；可编程；打字舒服清脆；
 
-+ 小米手环 2（或其他手环）
++ [小米手环 2（或其他手环）][34]
 
   小巧，轻便，可观看时间，记录你的行走步数和睡眠质量；当然，还有你运动时的心率，也少不了各种闹钟的啦。
 
-+ 欧乐 b 电动牙刷 D16
++ [欧乐 b 电动牙刷 D16][35]
 
-  电动牙刷三巨头；入门畅销级电动牙刷，229R，换来一个全新的刷牙体验和牙齿健康。
+  电动牙刷三巨头；入门畅销级电动牙刷，换来一个全新的刷牙体验和牙齿健康。
 
-+ 花花公子男士短款真皮复古简约薄款头层牛皮钱包
++ [花花公子男士短款真皮复古简约薄款头层牛皮钱包][36]
 
   花花公子钱包；多夹层；可放照片；空间大；不贵，适配青年学生。
 
-+ 卡西欧双显光动能运动表
++ [卡西欧双显光动能运动表][37]
 
   卡西欧的品牌；268R；光动能，防水，双显，夜光显示，世界时间，秒表...应有尽有；风格像 G-shock；适配青年学生。
 
@@ -213,3 +213,10 @@ type: page
   [28]: http://tampermonkey.net/
   [29]: https://www.zybuluo.com/mdeditor
   [30]: http://cn.office-converter.com/
+  [31]: https://detail.tmall.com/item.htm?spm=a1z10.4-b-s.w4004-17006247556.5.20cc225fIUD2hL&abtest=_AB-LR130-PR130&pvid=2531923d-b1d3-4345-810f-9bdd9660c0cd&pos=2&abbucket=_AB-M130_B19&acm=03131.1003.1.702582&id=556966360401&scm=1007.12940.83081.100200300000000
+  [32]: https://s.click.taobao.com/kHBC9bw
+  [33]: https://s.click.taobao.com/t?e=m=2&s=BtPcmOrc0uMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67jIDsVZbPJ9eFBt5vao9QZxHTKH6FrTdJft561Fb%2bn5%2byVSp3Oe9dsrXuBoOl2536cpQ3L4uT4HFesCqMN8VYDmWt8ptzziuVywFQ4%2bbM8u3LjHFdZ8G0YyiZ%2bQMlGz6FQ==&pvid=10_58.19.0.120_17109_1505209445265
+  [34]: https://www.mi.com/shouhuan2/?cfrom=list
+  [35]: https://s.click.taobao.com/oJeC9bw
+  [36]: https://s.click.taobao.com/naPD9bw
+  [37]: https://item.m.jd.com/product/11325608401.html?utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
