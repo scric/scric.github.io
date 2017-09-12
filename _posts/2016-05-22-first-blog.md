@@ -70,7 +70,7 @@ category: Blog
 
 `Collections` ：自己收藏的工具和网站及文章
 
-`Notes` ：读书笔记
+`About` ：关于我的信息及其他
 
   
 ## 其它
@@ -79,19 +79,6 @@ category: Blog
 > [我为什么写博客][2]  
 > [Derek Sivers][3]  
 
-## Test
-
-- [ ] 这是一个测试
-
-- [x] 这也是一个测试
-
-+ 这也是一个测试
-
-- 这同时也是一个测试
-
-lalalala
-
- 
 
   [1]: https://zhuanlan.zhihu.com/p/19725212
   [2]: http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html
