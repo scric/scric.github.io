@@ -11,7 +11,6 @@ type: page
 {:toc}
 
 
-
 ## 关于我
 
 本科生；滑雪热爱者；会简单（了解规则，熟练度不高）各类球类运动（篮球，排球，乒乓球）；羽毛球爱好者；
@@ -46,7 +45,12 @@ C，Java，Android，Html，Python 均有涉猎。
 
 > 如果你永远只在一般人努力的范畴里努力，那么你努力的结果一定会被竞争拉平到平均水平。
 
-## 更新
+## Update Log
+*2017.9.12*
+  
+* `[+]` 增加了两篇文章。[在 26 岁写给 18 岁的自己][1] & [如何度过大学四年][2] 。
+* `[-]` 修改了 [写给年轻的自己（一）][3] 的内容和更新了一些失效链接 。
+* `[+]` 将网址重定向为 [zxccc.top][4] 
 
 *2017.9.10*
   
@@ -54,17 +58,19 @@ C，Java，Android，Html，Python 均有涉猎。
 * `[-]` 删除了 原来 About 中 `武汉生存指南` 条目。
 * `[+]` 补充了 Collections 内容。
 
+
+
 ## 书单
 
-+ [美的历程][1]
++ [美的历程][5]
 
-+ [暗时间][2]
++ [暗时间][6]
 
-+ [心理学与生活][3]
++ [心理学与生活][7]
 
-+ [追时间的人][4]
++ [追时间的人][8]
 
-+ [怎样解题][5]
++ [怎样解题][9]
 
 ...
 
@@ -101,7 +107,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 + 优衣库的纯色 T 恤要比普通的大一码。
 
-+ 人生的精髓是 “及时复盘”。
++ 人生的精髓是 ”及时复盘“。
 
 + 克服不良情绪的办法是，运动。 
 
@@ -126,13 +132,20 @@ C，Java，Android，Html，Python 均有涉猎。
 
 
 
+
+
+
+
 ## Comments
 
 {% include comments.html %}
 
-
-  [1]: https://book.douban.com/subject/3410718/
-  [2]: https://book.douban.com/subject/6709809/
-  [3]: https://book.douban.com/subject/5953575/
-  [4]: https://book.douban.com/subject/5953575/
-  [5]: https://book.douban.com/subject/2124114/
+  [1]: http://zxccc.top/2017/09/12/26to-18/
+  [2]: http://zxccc.top/2017/09/12/howto/
+  [3]: http://zxccc.top/2017/07/09/think-young/
+  [4]: http://zxccc.top/
+  [5]: https://book.douban.com/subject/3410718/
+  [6]: https://book.douban.com/subject/6709809/
+  [7]: https://book.douban.com/subject/5953575/
+  [8]: https://book.douban.com/subject/5953575/
+  [9]: https://book.douban.com/subject/2124114/
