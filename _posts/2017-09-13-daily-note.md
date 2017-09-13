@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 日有所记 
-author: scric  
+author: Scric  
 date: 2017-09-13 8:19:54  
 tags:  Life Daily
 category: Note 
