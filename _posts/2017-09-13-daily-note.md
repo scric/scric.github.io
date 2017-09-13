@@ -48,7 +48,7 @@ category: Note
 
 3.  得不到满意的机会或是职业成长，还是久久不肯离开。
 
-
+[当你不是老板眼中的红人时，怎么办？](http://mp.weixin.qq.com/s/i83dAIjNGjxq-X9E1tFBmA)
  
 
 
