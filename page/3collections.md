@@ -183,6 +183,11 @@ type: page
   卡西欧的品牌；268R；光动能，防水，双显，夜光显示，世界时间，秒表...应有尽有；风格像 G-shock；适配青年学生。
 
 
+## Comments
+
+{% include comments.html %}
+
+
   [1]: https://github.com/getlantern/forum/issues/833
   [2]: https://zh.snipaste.com/index.html
   [3]: https://justgetflux.com/
