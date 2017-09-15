@@ -78,6 +78,10 @@ type: page
 * [Loxclip 液切][17]
 
   复制图片粘贴文件，轻快的图片剪切板增强工具。
+
+* [Yu-Writer](https://ivarptr.github.io/yu-writer.site/index.html)
+  
+  Win 上最好用的 MarkDown 编辑器。
   
 ## 工具网站
 
@@ -123,11 +127,15 @@ type: page
 
 * [Cmd Markdown 编辑阅读器][29] 
 
-  好用的 Markdown 在线编辑器
+  好用的 Markdown 在线编辑器。
 
 * [Office-converter][30]
 
   免费在线文件转换器
+
+* [How2j](http://how2j.cn?p=17929)
+
+用心的 Java 自学网站。网站将 Java 分为一个一个小的学习模块，既有视频教学，也有实践题目，方便动手边学边做。
  
 ## 公共号
 
