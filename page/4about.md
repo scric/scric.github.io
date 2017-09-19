@@ -47,10 +47,24 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.9.19*
+
+`[+]` 新增了一篇文章。[Oral-B-D16 上手测评](http://zxccc.top/2017/09/18/OralB-D16/)。
+`[+]` 更改 [精进-如何成为一个厉害的人] 为读书笔记，也就是作为合集连载。
+
+*2017.9.16*
+
+`[+]` 新增了一篇文章。[我的工具合集（二）](http://zxccc.top/2017/06/15/Mytools-2/)
 
 *2017.9.15*
 
 `[+]` 补充了 `Collections` 内容。
+
+*2017.9.13* 
+
+`[+]` 新增了两篇文章。[精进-如何成为一个厉害的人](http://zxccc.top/2017/09/13/be-better/) & [学习迷思](http://zxccc.top/2017/09/12/questionof-learn/)。
+`[+]` 新增了一个日常。[日有所记](http://zxccc.top/2017/09/13/daily-note/)
+
 
 *2017.9.12*
   
