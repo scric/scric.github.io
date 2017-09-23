@@ -47,6 +47,16 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.9.24*
+
+`[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)
+
+`[+]` 更新了一篇文章内容。[日有所记](http://zxccc.top/2017/09/13/daily-note/)
+
+*2017.9.21*
+
+`[+]` 将网址重定向为 [张大星的网站](http://www.prologu.com/)
+
 *2017.9.19*
 
 `[+]` 新增了一篇文章。[Oral-B-D16 上手测评](http://zxccc.top/2017/09/18/OralB-D16/)。
