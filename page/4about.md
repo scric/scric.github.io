@@ -55,7 +55,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 *2017.9.21*
 
-`[+]` 将网址重定向为 [张大星的网站](http://www.prologu.com/)
+`[+]` 将网址重定向为 [http://www.prologu.com/](http://www.prologu.com/)。取自[春光乍泄](https://movie.douban.com/subject/1292679/) 的一首 BGM [Prologu](http://www.xiami.com/song/391553)。
 
 *2017.9.19*
 
