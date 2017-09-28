@@ -47,6 +47,13 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.9.26*
+
+`[+]` 将自己的 gitpages 也重定向到这个网址上来，无论怎么访问，都会跳转到 www.prologu.com 这个网址上来。
+
+`[+]` 更新了一篇文章内容。[日有所记](http://zxccc.top/2017/09/13/daily-note/)打算考虑一下内容的改版。
+
+
 *2017.9.24*
 
 `[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)

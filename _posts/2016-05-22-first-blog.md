@@ -56,7 +56,7 @@ category: Blog
   
 - 不会直接照搬我个人公共号里的文章和知乎上的回答。  
   
-- 由于国内的 comments 平台`多说`挂了，所以用的国外的 comments 服务`disqus`，所以需要翻墙。
+- 由于国内的 comments 平台`多说`挂了，所以用的国外的 comments 服务`disqus`，所以需要翻墙才能评论哦。
   
 ### 模块说明
 
