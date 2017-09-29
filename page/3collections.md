@@ -194,7 +194,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
-{% include mai.html %}
+
 
 
   [1]: https://github.com/getlantern/forum/issues/833

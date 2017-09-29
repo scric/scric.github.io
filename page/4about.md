@@ -182,7 +182,7 @@ C，Java，Android，Html，Python 均有涉猎。
 ## Comments
 
 {% include comments.html %}
-{% include mai.html %}
+
 
   [1]: http://zxccc.top/2017/09/12/26to-18/
   [2]: http://zxccc.top/2017/09/12/howto/
