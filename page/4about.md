@@ -47,6 +47,10 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.9.30*
+
+`[+]` 为网站捕获一只小埋。
+
 *2017.9.26*
 
 `[+]` 将自己的 gitpages 也重定向到这个网址上来，无论怎么访问，都会跳转到 www.prologu.com 这个网址上来。
