@@ -47,53 +47,81 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+
+*2017.10.4*
+
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+`[+]` 更改了 [日有所记](http:///www.prologu.com/2017/09/24/daily-note/) 的排版。
+
+`[+]` 修复了该页面下失效链接。
+
+...
+
 *2017.10.3*
 
-`[+]` 更新了一篇文章内容。[日有所记](http://zxccc.top/2017/09/13/daily-note/)
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 `[+]` 为网站添加了音乐。
+
+...
+
 
 *2017.9.30*
 
 `[+]` 为网站捕获一只小埋。
 
+...
+
 *2017.9.26*
 
 `[+]` 将自己的 gitpages 也重定向到这个网址上来，无论怎么访问，都会跳转到 www.prologu.com 这个网址上来。
 
-`[+]` 更新了一篇文章内容。[日有所记](http://zxccc.top/2017/09/13/daily-note/)打算考虑一下内容的改版。
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/) 打算考虑一下内容的改版。
 
+...
 
 *2017.9.24*
 
-`[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)
+`[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)。
 
-`[+]` 更新了一篇文章内容。[日有所记](http://zxccc.top/2017/09/13/daily-note/)
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+...
 
 *2017.9.21*
 
 `[+]` 将网址重定向为 [http://www.prologu.com/](http://www.prologu.com/)。取自[春光乍泄](https://movie.douban.com/subject/1292679/) 的一首 BGM [Prologu](http://www.xiami.com/song/391553)。
 
+...
+
 *2017.9.19*
 
-`[+]` 新增了一篇文章。[Oral-B-D16 上手测评](http://zxccc.top/2017/09/18/OralB-D16/)。
+`[+]` 新增了一篇文章。[Oral-B-D16 上手测评](http:///www.prologu.com/2017/09/18/OralB-D16/)。
 
 `[+]` 更改 [精进-如何成为一个厉害的人] 为读书笔记，也就是作为合集连载。
 
+...
+
 *2017.9.16*
 
-`[+]` 新增了一篇文章。[我的工具合集（二）](http://zxccc.top/2017/06/15/Mytools-2/)
+`[+]` 新增了一篇文章。[我的工具合集（二）](http:///www.prologu.com/2017/06/15/Mytools-2/)。
+
+...
 
 *2017.9.15*
 
 `[+]` 补充了 `Collections` 内容。
 
+...
+
 *2017.9.13* 
 
-`[+]` 新增了两篇文章。[精进-如何成为一个厉害的人](http://zxccc.top/2017/09/13/be-better/) & [学习迷思](http://zxccc.top/2017/09/12/questionof-learn/)。
+`[+]` 新增了两篇文章。[精进-如何成为一个厉害的人](http:///www.prologu.com/2017/09/13/be-better/) & [学习迷思](http:///www.prologu.com/2017/09/12/questionof-learn/)。
 
-`[+]` 新增了一个日常。[日有所记](http://zxccc.top/2017/09/13/daily-note/)
+`[+]` 新增了一个日常。[日有所记](http:///www.prologu.com/2017/09/13/daily-note/)。
 
+...
 
 *2017.9.12*
   
@@ -103,6 +131,8 @@ C，Java，Android，Html，Python 均有涉猎。
  
 `[+]` 将网址重定向为 [zxccc.top][4]   
 
+...
+
 *2017.9.10*
   
 `[+]` 补充了 About 中 `书单` and `Tips` 内容。  
@@ -111,6 +141,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 `[+]` 补充了 `Collections` 内容。
 
+...
 
 
 ## 书单
@@ -184,6 +215,8 @@ C，Java，Android，Html，Python 均有涉猎。
 
 + 一言不合就发红包。
 
++ 文章简介要和正文之间空最少四行。
+
 + ...
 
 
@@ -200,10 +233,10 @@ C，Java，Android，Html，Python 均有涉猎。
 {% include comments.html %}
 
 
-  [1]: http://zxccc.top/2017/09/12/26to-18/
-  [2]: http://zxccc.top/2017/09/12/howto/
-  [3]: http://zxccc.top/2017/07/09/think-young/
-  [4]: http://zxccc.top/
+  [1]: http:///www.prologu.com/2017/09/12/26to-18/
+  [2]: http:///www.prologu.com/2017/09/12/howto/
+  [3]: http:///www.prologu.com/2017/07/09/think-young/
+  [4]: http:///www.prologu.com/
   [5]: https://book.douban.com/subject/3410718/
   [6]: https://book.douban.com/subject/6709809/
   [7]: https://book.douban.com/subject/5953575/
