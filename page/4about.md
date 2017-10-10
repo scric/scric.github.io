@@ -47,6 +47,14 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.10.10*
+
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+*2017.10.7*
+
+`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
 *2017.10.6*
 
 `[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
