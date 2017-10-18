@@ -29,7 +29,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 **读书方面**：
 
-课外主要读两个方面的书籍。一个是心理学方面的书籍，比如现在在啃**心理学与生活**；一方面就是编程书，现在在啃 **Core Java**。
+课外主要读两个方面的书籍。一个是心理学方面的书籍，比如现在在啃**心理学与生活**；~~一方面就是编程书，现在在啃 **Core Java**。~~
 
 **电脑方面**：
 
@@ -47,23 +47,45 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+*2017.10.18*
+
+`[+]` 打算新开三篇文章 —— `提高幸福感的小技巧` 以及 **每天更新一个**的`Windows & Android 技巧` & `Matlab Gui项目`。更新时间待定。
+
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+`[+]` 更改 [日有所记](http:///www.prologu.com/2017/09/24/daily-note/) 为 [一句](http:///www.prologu.com/2017/09/24/daily-note/)，并删减了其中`文章`内容。因为并时常更，而且对于一篇文章的解析最好单独列一篇出来。
+
+`[+]` 删除该页面下的`评论`。因为并无必要.
+
+`[+]` [Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/) 定稿。
+
+*2017.10.11* ~ *2017.10.17*
+
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+`[+]` 更新了该页面下的 `Tips` 内容。
+
+`[+]` 更新了该页面下的 `书单` 内容。
+
+`[+]` 
+
 *2017.10.10*
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 *2017.10.7*
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 *2017.10.6*
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 `[+]` 更新了该页面下的 `Tips`。
 
 *2017.10.4*
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 `[+]` 更改了 [日有所记](http:///www.prologu.com/2017/09/24/daily-note/) 的排版。
 
@@ -73,7 +95,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 *2017.10.3*
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 `[+]` 为网站添加了音乐。
 
@@ -96,21 +118,21 @@ C，Java，Android，Html，Python 均有涉猎。
 
 *2017.9.24*
 
-`[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)。
+`[+]` 新增了一篇文章。[Windows 系统使用过程几问 (二)](http://www.prologu.com/2017/09/23/wayfor-Win02/)。文章并未完成。
 
-`[+]` 更新了一篇文章内容。[日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [日有所记](http:///www.prologu.com/2017/09/24/daily-note/)。
 
 ...
 
 *2017.9.21*
 
-`[+]` 将网址重定向为 [http://www.prologu.com/](http://www.prologu.com/)。取自[春光乍泄](https://movie.douban.com/subject/1292679/) 的一首 BGM [Prologu](http://www.xiami.com/song/391553)。
+`[+]` 将网址重定向为 [http://www.prologu.com/](http://www.prologu.com/)。取自 [春光乍泄](https://movie.douban.com/subject/1292679/) 的一首 BGM： [Prologu](http://www.xiami.com/song/391553)。
 
 ...
 
 *2017.9.19*
 
-`[+]` 新增了一篇文章。[Oral-B-D16 上手测评](http:///www.prologu.com/2017/09/18/OralB-D16/)。
+`[+]` 新增了一篇文章 —— [Oral-B-D16 上手测评](http:///www.prologu.com/2017/09/18/OralB-D16/)。
 
 `[+]` 更改 [精进-如何成为一个厉害的人] 为读书笔记，也就是作为合集连载。
 
@@ -118,7 +140,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 *2017.9.16*
 
-`[+]` 新增了一篇文章。[我的工具合集（二）](http:///www.prologu.com/2017/06/15/Mytools-2/)。
+`[+]` 新增了一篇文章 —— [我的工具合集（二）](http:///www.prologu.com/2017/06/15/Mytools-2/)。
 
 ...
 
@@ -130,15 +152,15 @@ C，Java，Android，Html，Python 均有涉猎。
 
 *2017.9.13* 
 
-`[+]` 新增了两篇文章。[精进-如何成为一个厉害的人](http:///www.prologu.com/2017/09/13/be-better/) & [学习迷思](http:///www.prologu.com/2017/09/12/questionof-learn/)。
+`[+]` 新增了两篇文章 —— [精进-如何成为一个厉害的人](http:///www.prologu.com/2017/09/13/be-better/) & [学习迷思](http:///www.prologu.com/2017/09/12/questionof-learn/)。
 
-`[+]` 新增了一个日常。[日有所记](http:///www.prologu.com/2017/09/13/daily-note/)。
+`[+]` 新增了一个日常 —— [日有所记](http:///www.prologu.com/2017/09/13/daily-note/)。
 
 ...
 
 *2017.9.12*
   
-`[+]` 增加了两篇文章。[在 26 岁写给 18 岁的自己][1] & [如何度过大学四年][2] 。  
+`[+]` 增加了两篇文章 —— [在 26 岁写给 18 岁的自己][1] & [如何度过大学四年][2] 。  
 
 `[-]` 修改了 [写给年轻的自己（一）][3] 的内容和更新了一些失效链接 。 
  
@@ -150,7 +172,7 @@ C，Java，Android，Html，Python 均有涉猎。
   
 `[+]` 补充了 About 中 `书单` and `Tips` 内容。  
 
-`[-]` 删除了 原来 About 中 `武汉生存指南` 条目。  
+`[-]` 删除了 原来 `About` 中 `武汉生存指南` 条目。  
 
 `[+]` 补充了 `Collections` 内容。
 
@@ -168,6 +190,10 @@ C，Java，Android，Html，Python 均有涉猎。
 + [追时间的人][8]
 
 + [怎样解题][9]
+
++ [精进：如何成为一个厉害的人][10]
+
++ [幸福课：不完美人生的解答书][11]
 
 ...
 
@@ -214,7 +240,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 + 查看 directX 版本最快的方法。 按 Win + R 键呼出 `运行` ，输入 **dxdiag** 后确定即可查看。
 
-+ 在英文文档中，括号的作用就是解释说明。斜体就是强调 强调就是需要解释。
++ 在英文文档中，括号的作用就是解释说明。斜体就是强调，强调就是需要解释。
 
 + 先问是不是，再问为什么。
 
@@ -236,20 +262,34 @@ C，Java，Android，Html，Python 均有涉猎。
 
 + 大处省钱，小处花钱。
 
++ 淘宝搜索“网易云免单券”。
+
++ 热水敷脸再用洗面奶洗脸，再用其他护肤产品。
+
++ 饭在食堂吃，在床上就睡觉，书桌用来看书写作业和工作。让场景单一化。
+
++ 早晚跑步。不是一定要跑多少圈才够，而是这个态度要有。
+
++ 快速收到回复的办法是发个红包再问问题。
+
++ 不迷信权威和课本，他们也是人。
+
++ 天冷就喝点温水。
+
++ 做什么事情都不会晚，重要的是现在就去做。
+
++ 跑步穿好运动装，穿跑步鞋，跑前喝几口水。
+
++ 每天记得上小米应用商店下载应用拿红包。
+
++ 睡前一个小时少喝水。
+
 + ...
 
 
 
 
 
-
-
-
-
-
-## Comments
-
-{% include comments.html %}
 
 
   [1]: http:///www.prologu.com/2017/09/12/26to-18/
@@ -261,3 +301,5 @@ C，Java，Android，Html，Python 均有涉猎。
   [7]: https://book.douban.com/subject/5953575/
   [8]: https://book.douban.com/subject/5953575/
   [9]: https://book.douban.com/subject/2124114/
+  [10]:https://book.douban.com/subject/26761696/
+  [11]:https://book.douban.com/subject/27050457/
