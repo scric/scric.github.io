@@ -190,6 +190,9 @@ type: page
 
   卡西欧的品牌；268R；光动能，防水，双显，夜光显示，世界时间，秒表...应有尽有；风格像 G-shock；适配青年学生。
 
++ [意构专业睡觉防噪音耳塞][38]
+
+  超级好用，真的听不到很大的噪音，戴起来也没有异物感。加一分钱可加购眼罩。
 
 ## Comments
 
@@ -234,3 +237,4 @@ type: page
   [35]: https://s.click.taobao.com/oJeC9bw
   [36]: https://s.click.taobao.com/naPD9bw
   [37]: https://item.m.jd.com/product/11325608401.html?utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
+  [38]: https://detail.tmall.com/item.htm?id=10432745153&spm=a1z09.2.0.0.28607e416MWqD7&_u=j2filvtla1e0&sku_properties=20509:28315
