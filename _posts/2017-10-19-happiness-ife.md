@@ -3,7 +3,7 @@ layout: post
 title: 提高幸福感的小技巧
 author: Scric
 date: 2017-10-19 23:57:54
-tags:  Life Daily
+tags:  Life
 category: Note 
 ---
 * content

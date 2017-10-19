@@ -3,7 +3,7 @@ layout: post
 title: "搭建个人博客：GitHub + SourceTree"
 excerpt: 20分钟搭建个人博客
 date: 2017-06-11 08:16:54
-tags: Blog
+tags: Tool
 category: Blog
 ---
 

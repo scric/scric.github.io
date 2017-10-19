@@ -3,8 +3,8 @@ layout: post
 title: 学习迷思
 author: Scric
 date: 2017-09-12 15:57:54
-tags: Education College Daily
-category: Note
+tags: College Life
+category: Thinking
 ---
 
 * content
