@@ -47,8 +47,20 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
+
+*2017.10.24*
+
+`[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
+
+*2017.10.21*
+
+`[+]` 更新了一篇文章 —— [提高幸福感的小技巧](http://www.prologu.com/2017/10/19/happiness-ife/)。
+
+`[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
+
 *2017.10.19*
-`[+]`  新增了一篇文章 —— [提高幸福感的小技巧](http://www.prologu.com/2017/10/19/happiness-ife/)。
+
+`[+]` 新增了一篇文章 —— [提高幸福感的小技巧](http://www.prologu.com/2017/10/19/happiness-ife/)。
 
 `[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
 
