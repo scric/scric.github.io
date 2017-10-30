@@ -47,11 +47,15 @@ C，Java，Android，Html，Python 均有涉猎。
 
 ## Update Log
 
-*2017.10.25/26*
+*2017.10.30*
 
 `[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
 
-*2017.10.24*
+`[+]` 更新了一篇文章 —— [提高幸福感的小技巧](http://www.prologu.com/2017/10/19/happiness-ife/)。洗澡。
+
+`[+]` 更新了该页面下的 `Tips`。
+
+*2017.10.24/25/26/27/29*
 
 `[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
 
@@ -59,7 +63,7 @@ C，Java，Android，Html，Python 均有涉猎。
 
 `[+]` 更新了一篇文章 —— [提高幸福感的小技巧](http://www.prologu.com/2017/10/19/happiness-ife/)。
 
-`[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。
+`[+]` 更新了一篇文章内容 —— [一句](http:///www.prologu.com/2017/09/24/daily-note/)。吃火锅。
 
 *2017.10.19*
 
@@ -308,6 +312,8 @@ C，Java，Android，Html，Python 均有涉猎。
 + 睡前一个小时少喝水。
 
 + **如果意识到别人只从他们的角度看待你的问题，Just 停止解释。​​​**
+
++ 自先沉稳，而后爱人。
 
 + ...
 

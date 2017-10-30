@@ -194,6 +194,10 @@ type: page
 
   超级好用，真的听不到很大的噪音，戴起来也没有异物感。加一分钱可加购眼罩。
 
++ [搓澡巾手套][39]
+
+  搓澡巾手套，麻麻再也不用担心我洗不干净了。洗完真的没有泥哦。
+
 ## Comments
 
 {% include comments.html %}
@@ -238,3 +242,4 @@ type: page
   [36]: https://s.click.taobao.com/naPD9bw
   [37]: https://item.m.jd.com/product/11325608401.html?utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL
   [38]: https://detail.tmall.com/item.htm?id=10432745153&spm=a1z09.2.0.0.28607e416MWqD7&_u=j2filvtla1e0&sku_properties=20509:28315
+  [39]: https://detail.tmall.com/item.htm?id=520579880091&spm=a1z09.2.0.0.71806262zODA4w&_u=u2filvtlc8b4
