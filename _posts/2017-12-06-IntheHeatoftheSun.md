@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《阳光灿烂的日子》观后感
-author: scric
+author: 张大星
 date: 2017-12-06 20:16:54
 tags: Write
 category: 影评

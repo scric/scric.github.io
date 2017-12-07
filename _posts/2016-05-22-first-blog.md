@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do someting fun
-author: scric
+author: 张大星
 date: 2017-06-10 22:16:54
 tags: Blog
 category: Blog
