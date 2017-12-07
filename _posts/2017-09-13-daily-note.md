@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 一句
-author: Scric  
+author: 张大星 
 date: 2017-09-24 0:19:54  
 tags:  Life Daily
 category: Note 

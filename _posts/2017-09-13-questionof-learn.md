@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习迷思
-author: Scric
+author: 张大星
 date: 2017-09-12 15:57:54
 tags: College Life
 category: Thinking

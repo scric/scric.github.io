@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写给年轻的自己（一）
-author: scric
+author: 张大星
 date: 2017-07-09 23:40:00
 tags: Write
 category: Thinking
