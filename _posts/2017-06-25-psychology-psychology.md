@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 心理学与生活（一）
-author: scric
+author: 张大星
 date: 2017-06-25 23:40:00
 tags: 心理学与生活
 category: Psychology
