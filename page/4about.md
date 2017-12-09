@@ -148,9 +148,17 @@ type: page
 
 ## Update Log
 
+*2017.12.10*
+
+`[+]` 新增三篇文章 —— [一直以来的自己](http://www.prologu.com/2014/01/18/theman/) & [未来值得更好的自己](http://www.prologu.com/2015/02/19/deservebetter/) & [写在二十岁](http://www.prologu.com/2016/12/09/in20th/)。是以往更新在 QQ 空间里的文章，现转移到自己网站上。对了，今天自己生日。
+
+*2017.12.07/09*
+
+`[+]` 新增两篇文章 —— [实用的批处理工具（一）](http://www.prologu.com/2017/12/07/cmd00/) & [实用的批处理工具（二）](http://www.prologu.com/2017/12/09/cmd01/)。是关于日常使用批处理解决问题的记录
+
 *2017.12.06*
 
-`[+]` 更新了一篇文章 —— [《阳光灿烂的日子》观后感](http://www.prologu.com/2017/12/06/IntheHeatoftheSun/) 
+`[+]` 新增了一篇文章 —— [《阳光灿烂的日子》观后感](http://www.prologu.com/2017/12/06/IntheHeatoftheSun/) 
 
 `[+]` 修改了该页面下排版。因为 `Update Log` 更新过于频繁以至于列表越来越长，将其移动到最后。
 
