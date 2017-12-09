@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 荒野行动吃鸡指南
-author: Scric
+author: 张大星
 date: 2017-11-12 20:57:54
 tags:  Play
 category: Note 

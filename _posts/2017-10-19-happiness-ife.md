@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 提高幸福感的小技巧
-author: Scric
+author: 张大星
 date: 2017-10-19 23:57:54
 tags:  Life
 category: Note 
