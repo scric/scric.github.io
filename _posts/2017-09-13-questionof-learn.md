@@ -87,6 +87,4 @@ category: Thinking
 
 
 
-## Comments
 
-{% include comment.html %}
