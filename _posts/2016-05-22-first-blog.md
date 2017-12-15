@@ -79,6 +79,10 @@ category: Blog
 > [我为什么写博客][2]  
 > [Derek Sivers][3]  
 
+## Comments
+
+{% include comment.html %}
+
 
   [1]: https://zhuanlan.zhihu.com/p/19725212
   [2]: http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html
