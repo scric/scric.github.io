@@ -148,6 +148,12 @@ type: page
 
 ## Update Log
 
+*2017.12.15*
+
+`[+]` 把评论从 **Disqus** 换成了 **Gitment**，这样就可以不用翻墙也能评论了。
+
+`[+]` 新增了一个页面 `Daily` 。里面放自己日常的吐槽，用 CSS + Html 实现的对话框。
+
 *2017.12.10*
 
 `[+]` 新增三篇文章 —— [一直以来的自己](http://www.prologu.com/2014/01/18/theman/) & [未来值得更好的自己](http://www.prologu.com/2015/02/19/deservebetter/) & [写在二十岁](http://www.prologu.com/2016/12/09/in20th/)。是以往更新在 QQ 空间里的文章，现转移到自己网站上。对了，今天自己生日。
