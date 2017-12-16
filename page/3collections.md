@@ -197,7 +197,7 @@ type: page
 
 ## Comments
 
-{% include commentt.html %}
+{% include comment.html %}
 
 
 
