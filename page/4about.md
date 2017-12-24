@@ -147,7 +147,7 @@ type: page
 + ...
 
 
-<script type="/js/javascript" src="js/jquery.js"></script>
+### Update Log
 
 *2017.12.24*
 
