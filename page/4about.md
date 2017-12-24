@@ -146,7 +146,8 @@ type: page
 
 + ...
 
-## Update Log
+
+<script type="/js/javascript" src="js/jquery.js"></script>
 
 *2017.12.24*
 
