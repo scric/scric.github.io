@@ -70,6 +70,8 @@ category: Blog
 
 `Collections` ：自己收藏的工具和网站及文章
 
+`Daily` : 自己有关日常的吐槽
+
 `About` ：关于我的信息及其他
 
   
