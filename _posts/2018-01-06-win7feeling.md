@@ -3,8 +3,8 @@ layout: post
 title: Windows 7 使用指南
 author: 张大星
 date: 2018-01-06
-tags: Tool
-category: Tool Windows
+tags: Windows
+category: Tool
 ---
 * content
 {:toc}
