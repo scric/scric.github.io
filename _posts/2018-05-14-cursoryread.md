@@ -1,8 +1,8 @@
 ---
 layout: post 
 title: 《如何度过大学四年》 精要
-author: 钱理群  
-date: 2017-05-14 15:16:54  
+author: 张大星
+date: 2018-05-14 22:29:54
 tags: College Life
 category: Collections 
 ---
