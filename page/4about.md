@@ -152,7 +152,9 @@ type: page
 
 53. 做项目时时常手动 `Ctrl` + `S` ，手动保存；或者在软件中设置自动保存。
 
-54. what I need
+54. what I need is better than what I want
+
+55. 微信公众号编辑文字消息时不能直接复制内容，或者将每行最后空格删除。
 + ...
 
 
