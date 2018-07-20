@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 icon: heart
 type: page
+pin: true
 ---
 
 
