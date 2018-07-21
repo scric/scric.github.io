@@ -188,7 +188,7 @@ pin: true
 70. 吃完饭站半小时。
 ... 
 
-## Update Log
+## UpdateLog
 
 [Update Log](https://github.com/scric/scric.github.io/blob/master/UpdateLog.md)
 
