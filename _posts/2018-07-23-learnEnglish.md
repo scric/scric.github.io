@@ -1,0 +1,35 @@
+---
+layout: post 
+title: 英语学习笔记
+author: 张大星
+date: 2018-07-23 21:36:54
+tags: Education Write
+category: Note
+---
+
+英语学习笔记
+
+
+
+
+## 单词
+
+![01](http://7xvssh.com1.z0.glb.clouddn.com/01.jpg)
+
+![02](http://7xvssh.com1.z0.glb.clouddn.com/02.jpg)
+
+![03](http://7xvssh.com1.z0.glb.clouddn.com/03.jpg)
+
+### 提炼
+
+单词 —— 查释义（英英）—— 找到同义词（低阶）—— 同义词替换 —— 代入例句中理解 —— 从例句中学会其他词汇 —— 应用与模仿
+
+详细见上图
+
+### 参考
+
+1. 让英语学习当做毕生的事业
+2. 勇敢地去做一个笨笨的自己
+
+
+
