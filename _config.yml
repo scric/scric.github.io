@@ -30,7 +30,7 @@ description_footer: It's now or never
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: ff0d0aa9265cff6af254ae8890f2b830
-google_analytics_id: UA-100798843-1 
+# google_analytics_id: UA-100798843-1 
 
 # Build settings
 markdown: kramdown
